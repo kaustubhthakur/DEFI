@@ -1,2 +1,2 @@
 # DEFI
-This repo contains various concepts and nath used in defi and various DecentralisedExchanges
+This repo contains various concepts and math used in defi and various DecentralisedExchanges
